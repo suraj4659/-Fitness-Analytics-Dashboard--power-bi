@@ -74,16 +74,5 @@ It includes:
 - Color-coded charts  
 - Consistent spacing and typography  
 
----
-
-## 🧰 Tech Stack (Adjust according to your build)
-
-- HTML / CSS / JavaScript  
-- Chart.js / ApexCharts (if used)  
-- Modern UI styling  
-- (Or Power BI / Tableau if it was built using BI tools)
-
----
 writed by --suraj prasad
-## 📁 Project Structure (Example)
 
